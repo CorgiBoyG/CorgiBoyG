@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CorgiBoyG
-- 👀 I’m interested in DeppLearning,MachineLearning,CV,AI,BigData
-- 🌱 I’m currently learning DeepLearning and CV.
+- 👀 I’m interested in depp-learning, point cloud processing, 3D registration.
+- 🌱 I’m currently learning depp-learning and 3D registration.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
